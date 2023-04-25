@@ -1,0 +1,105 @@
+.header{
+    background-image:linear-gradient(transparent, rgba(0, 0, 0, 0.699)),  url('sikkim2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    width: 100%;
+
+}
+.head{
+    display: flex;
+   background-color: rgba(0, 47, 255, 0.827);
+    height: 80px;
+    width: 100%;
+    
+}
+
+.para{
+    display: flex;
+}   
+
+
+.image{
+    height: 150px;
+    width: 200px;
+}
+.block{
+    
+    width: 80%;
+   
+    
+}
+.block2{
+    
+    height: 230px;
+    width: 250px;
+}
+.btn2{
+    height: 100px;
+    width: 250px;
+    background-color: rgba(0, 0, 255, 0.764);
+}
+.elements{
+    display: flex;
+    
+}
+.quick_link_elemets{
+width: 22%;
+height: 1000px;
+
+}
+.slideshow{
+    
+    width: 60%;
+}
+.elements2{
+    display: flex;
+}
+.slide{
+    height: 400px;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.085);
+}
+.slide_elements{
+    background-color:rgba(0, 0, 0, 0.367) ;
+    height: 30%;
+
+}
+.underline{
+    text-decoration: none;
+}
+.quick_links{
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    font-weight: bolder;
+}
+.link{
+    text-align: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    
+}
+.links{
+    list-style-type: none;
+}
+.font{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.colour{
+    background-color: rgba(128, 128, 128, 0);
+    text-decoration: none;
+    color: black;
+}
+.end{
+    background-color:darkblue;
+    height: 250px;
+}
+.text_decoration{
+    color: white;
+}
+.text{
+    color: white;
+    text-decoration: none;
+}
